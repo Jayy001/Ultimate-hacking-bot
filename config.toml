@@ -1,0 +1,8 @@
+[bot]
+prefix = "$"
+description = "Ultimate hacking bot"
+hidden_replies = false
+
+[apis]
+shodan = ""
+ciphey = ""
